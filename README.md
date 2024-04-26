@@ -1,6 +1,9 @@
 # Motoristas-Habilitados
-________________________________________
+# Descrição
 Empresas autorizadas pela Receita Federal para realizar o transporte rodoviário.
-________________________________________
+# Objetivo
+Fazer um dashboard  de três visualizações utilizando dados abertos.
+
+
 Equipe: José Augusto e Mariana Diniz
 
