@@ -5,6 +5,6 @@ Empresas autorizadas pela Receita Federal para realizar o transporte rodoviário
 Fazer um dashboard  de três visualizações utilizando dados abertos.
 
 # Equipe
-| José Augusto  e Mariana Diniz|
---------------------------------
+| José Augusto | Mariana Diniz|
+|--------------|---------------|
 
